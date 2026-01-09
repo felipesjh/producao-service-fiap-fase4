@@ -31,7 +31,8 @@ mvn test
 ```
 
 ## Cobertura de Testes (Evidência)
-> Inserir aqui print ou link do relatório de cobertura (mínimo 80%)
+<img width="1509" height="493" alt="image" src="https://github.com/user-attachments/assets/241deed6-6083-4f02-b8ea-6ac08e6156b9" />
+
 
 ---
 
