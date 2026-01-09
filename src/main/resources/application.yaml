@@ -1,0 +1,18 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: producao-service
+
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/fastfood
+
+springdoc:
+  swagger-ui:
+    path: /swagger
+
+pedido:
+  service:
+    base-url: http://localhost:8081
