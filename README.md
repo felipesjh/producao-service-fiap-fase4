@@ -31,7 +31,7 @@ mvn test
 ```
 
 ## Cobertura de Testes (Evidência)
-<img width="1509" height="493" alt="image" src="https://github.com/user-attachments/assets/241deed6-6083-4f02-b8ea-6ac08e6156b9" />
+<img width="1506" height="435" alt="image" src="https://github.com/user-attachments/assets/d5549349-8681-4a6a-be34-a134fd0c6cfc" />
 
 
 ---
